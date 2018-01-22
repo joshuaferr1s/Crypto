@@ -1,9 +1,6 @@
-# Crytpo
+# Crypto
+
 Pythonic view of methods taught in Cryptography 2018, Chris Hughes
-
-# Project Title
-
-One Paragraph of project description goes here
 
 ## Getting Started
 
